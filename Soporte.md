@@ -10,7 +10,7 @@ title: Soporte
 
 ## Contacto
 
-- **Email de soporte:** jesusalvarezruiz92@gmail.com  
+- **Email de soporte:** https://discord.gg/3Cqcr6edmM
 - **Tiempo de respuesta:** 24–72 h laborables  
 - **Idioma:** Español
 
@@ -53,7 +53,7 @@ Para ayudarnos a reproducirlo, envíanos:
 4. **Dispositivo** y **versión de iOS**  
 5. **Versión de la app**
 
-📩 Enviar a: soporte@tudominio.com
+📩 Enviar a: https://discord.gg/3Cqcr6edmM
 
 ---
 
