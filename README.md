@@ -12,7 +12,7 @@ Al utilizar la app, aceptas las prácticas descritas en esta política.
 
 **Nombre de la app:** TuEscala
 **Responsable:** Desarrollador de TuEscala
-**Correo de contacto:** (añade aquí tu email de contacto)
+**Correo de contacto:** https://discord.gg/3Cqcr6edmM
 
 ---
 
