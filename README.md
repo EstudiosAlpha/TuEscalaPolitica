@@ -177,7 +177,7 @@ Se recomienda revisar esta política periódicamente.
 
 Si tienes cualquier duda sobre esta Política de Privacidad o sobre el tratamiento de datos en TuEscala, puedes contactar en:
 
-📧 **Correo:** (añade aquí tu email de contacto)
+📧 **Discord:** https://discord.gg/3Cqcr6edmM
 
 ---
 
